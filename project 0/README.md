@@ -1,5 +1,5 @@
 # Проект 0. Угадай число## Оглавление 
-* [Код:] (https://github.com/AlexandrKolan/domashka/blob/main/project%200/ugadivanie.py)
+# Код: (https://github.com/AlexandrKolan/domashka/blob/main/project%200/ugadivanie.py)
 
 ### Описание проекта    
 Угадать загаданное компьютером число менее чем за 20 попыток.
